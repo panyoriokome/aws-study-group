@@ -39,3 +39,25 @@ Pythonの文法についてかなり包括的に触れられている本。
 - [オンライン講座]Intro to Computer Science  
 Pythonを使ってWebクローラーを作りながらComputer Scienceの基本概念について学ぶことができる  
 [Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
+
+#### Python Scraping
+
+- [書籍]Pythonクローリング&スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド
+スクレイピングについて一通りのこと(簡単なスクレイピングから本格的なクローラーの運用まで)が学べる本。
+若干小難しい記述もあるが、日本語の情報を取り扱う場合にはエンコーディングの問題もあるので、  
+一冊は日本語で書かれた本を読むことをオススメする。  
+[Amazon](https://www.amazon.co.jp/Python%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0-%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0-%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82%E7%89%88-%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%83%BB%E8%A7%A3%E6%9E%90%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E3%82%AC%E3%82%A4%E3%83%89-%E5%8A%A0%E8%97%A4/dp/4297107384/ref=pd_sbs_14_6/358-0627238-6954057?_encoding=UTF8&pd_rd_i=4297107384&pd_rd_r=740e2ed0-9911-474c-b5a9-5968b4061201&pd_rd_w=iV9jf&pd_rd_wg=FbjM5&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=CMYY6PYSVE0K66GP9P77&psc=1&refRID=CMYY6PYSVE0K66GP9P77)
+
+- [書籍]Web Scraping with Python: Collecting More Data from the Modern Web - 2nd Edition
+英語(日本語版もあるが、翻訳がいまいちっぽい)。  
+取り扱っている情報は上記の本 +α ぐらいだが、説明が簡潔で話の進め方もよく、個人的にはこちらの方がわかりやすかった。  
+[Amazon](https://www.amazon.co.jp/Web-Scraping-Python-Collecting-Modern/dp/1491985577/ref=sr_1_2?qid=1564578793&refinements=p_27%3ARyan+Mitchell&s=books&sr=1-2)
+
+
+
+#### API
+- [書籍]Web API: The Good Parts
+Web APIの設計や運用について書かれた本。  
+エンドポイント、レスポンスデータ、セキュリティ等、実際にAPIを作る時に必ず必要になる要素をどう設計すればいいか
+ベストプラクティスが学べる。  
+[Oreilly](https://www.oreilly.co.jp/books/9784873116860/)
