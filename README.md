@@ -63,3 +63,16 @@ Web APIの設計や運用について書かれた本。
 [Oreilly](https://www.oreilly.co.jp/books/9784873116860/)
 
 #### Flask
+
+
+#### マイクロサービス
+
+[マイクロサービスを一言で表すと何なのか](https://qiita.com/qsona/items/d879f5e1f12cb6499987)
+
+[マイクロサービスアーキテクチャと技術選定](http://tech.f-scratch.co.jp/entry/2018/01/05/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%A8%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A)
+
+
+
+#### 勉強会用資料
+
+[2日目資料](https://qiita.com/polythenepan/private/0c9749adae67b2f04909)
