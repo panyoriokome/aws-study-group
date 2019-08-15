@@ -1,6 +1,8 @@
 # aws-study-group
 aws-study-group
-### 勉強会
+## 勉強会資料
+
+### Day0. 事前準備
 
 #### AWS
 
@@ -11,7 +13,6 @@ aws-study-group
 
 #### Webについて
 
-##### 参考ページ
 - [今更聞けない！Webサーバーの仕組みと構築方法](https://eng-entrance.com/web-server-mechanism)
 
 - [HTTPとPOSTとGET](https://qiita.com/Sekky0905/items/dff3d0da059d6f5bfabf)
@@ -20,11 +21,67 @@ aws-study-group
 
 - [JSONについて調べてみた](https://qiita.com/chihiro/items/dd1912c1406dbfe16b72)
 
-##### 参考書籍
+<BR>
+
+### Day1. APIを使ってみよう
+以下の資料参照
+
+https://github.com/polythenepan/aws-study-group/tree/master/day1
+
+<BR>
+
+### Day2. APIを作ってみよう
+- [講義資料:Day2: APIを作成しよう](https://qiita.com/polythenepan/private/0c9749adae67b2f04909)
+
+- [Day2 演習問題回答例](https://qiita.com/polythenepan/private/a587a9524184720a8cc5)
+
+- [Day2 参考1 ステータスコードとエラーハンドリング](https://qiita.com/polythenepan/private/e6009dcebd74edc158a8)
+
+- [Day2 参考2 便利なライブラリの活用 Flask-RESTful](https://qiita.com/polythenepan/private/ae2d3958b4aedf19cc60)
+
+<BR>
+
+##### TBD
+- FlaskでDBを使う(SQLite編)
+
+- FlaskでDBを使う(MySQL編)
+
+- FlaskでDBを使う(SQLAkchemyの活用)
+
+<BR>
+
+### Day3. サーバを作ってみよう
+- [AWSで基盤お試し構築~VPC~](https://qiita.com/akhkyamada/private/a2fc86cc293120ed0071)
+
+- [AWSで基盤お試し構築~サブネットとインターネットゲートウェイ~](https://qiita.com/akhkyamada/private/46ca032700427474a780)
+
+- [AWSで基盤お試し構築~セキュリティグループ&EC2~](https://qiita.com/akhkyamada/private/67b582e49fa1def99bb8)
+
+- [AWSで基盤お試し構築~サーバでコマンドを叩ける環境を作る~](https://qiita.com/akhkyamada/private/d19eb20014d1b4529625)
+
+- [AWSで基盤お試し構築~nginxで遊ぶ~](https://qiita.com/akhkyamada/private/dd2486330316a499ff9f)
+
+- [AWSで基盤お試し構築~RDS~](https://qiita.com/akhkyamada/private/f2cca17e88b492887e39)
+
+- [EC2 python3 install & alias](https://qiita.com/akhkyamada/private/513aa19c23563cbea573)
+
+<BR>
+
+### Day4. サーバにAPIをリリースしよう
+TBD
+
+
+
+<BR>
+
+## 参考書籍
+
+### Webについて
+
 - [イラスト図解式 この一冊で全部わかるWeb技術の基本(Amazon)](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S)  
 Web関連の技術について簡潔にまとめられた書籍。
 
-#### Python
+### Python
 
 - [書籍]独学プログラマー Python言語の基本から仕事のやり方まで    
 Pythonの基本文法からBash、リポジトリ管理の仕方まで幅広いトピックについて学べる１冊  
@@ -40,7 +97,7 @@ Pythonの文法についてかなり包括的に触れられている本。
 Pythonを使ってWebクローラーを作りながらComputer Scienceの基本概念について学ぶことができる  
 [Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
-#### Python Scraping
+### Python Scraping
 
 - [書籍]Pythonクローリング&スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド  
 スクレイピングについて一通りのこと(簡単なスクレイピングから本格的なクローラーの運用まで)が学べる本。
@@ -55,17 +112,17 @@ Pythonを使ってWebクローラーを作りながらComputer Scienceの基本�
 
 
 
-#### API
+### API
 - [書籍]Web API: The Good Parts
 Web APIの設計や運用について書かれた本。  
 エンドポイント、レスポンスデータ、セキュリティ等、実際にAPIを作る時に必ず必要になる要素をどう設計すればいいか
 ベストプラクティスが学べる。  
 [Oreilly](https://www.oreilly.co.jp/books/9784873116860/)
 
-#### Flask
+### Flask
 
 
-#### マイクロサービス
+### マイクロサービス
 
 [マイクロサービスを一言で表すと何なのか](https://qiita.com/qsona/items/d879f5e1f12cb6499987)
 
@@ -73,6 +130,5 @@ Web APIの設計や運用について書かれた本。
 
 
 
-#### 勉強会用資料
 
 [2日目資料](https://qiita.com/polythenepan/private/0c9749adae67b2f04909)
