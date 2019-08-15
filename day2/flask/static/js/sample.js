@@ -4,7 +4,7 @@ let duration = document.querySelector("#duration");
 let annual_return = document.querySelector("#annual_return");
 
 
-url = 'http://127.0.0.1:5000/'
+url = 'http://ec2-3-114-138-229.ap-northeast-1.compute.amazonaws.com:80/'
 
 btn.addEventListener("click", function(){
 
