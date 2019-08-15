@@ -120,6 +120,17 @@ Web APIの設計や運用について書かれた本。
 [Oreilly](https://www.oreilly.co.jp/books/9784873116860/)
 
 ### Flask
+Flaskは日本語の書籍等でよさそうなのが見つかっていないので良いのを見つけたら教えてほしいです..
+
+- [オンライン講座]REST APIs with Flask and Python  
+Pythonの基本からFlaskでのREST APIの作り方、DBの使い方、認証の仕方等順を追って教えてくれる。  
+英語字幕あり。  
+[Udemy](https://www.udemy.com/course/rest-api-flask-and-python/)
+
+- [書籍]Flask Web Development: Developing Web Applications with Python  
+取り扱っている内容は上記のオンライン講座より幅広く深いので、先にFlaskの概要をつかんでから読むことを推奨。  
+日本語訳はなさそう？  
+[Amazon](https://www.amazon.co.jp/Flask-Web-Development-Developing-Applications/dp/1491991739/ref=dp_ob_title_bk)
 
 
 ### マイクロサービス
@@ -127,8 +138,3 @@ Web APIの設計や運用について書かれた本。
 [マイクロサービスを一言で表すと何なのか](https://qiita.com/qsona/items/d879f5e1f12cb6499987)
 
 [マイクロサービスアーキテクチャと技術選定](http://tech.f-scratch.co.jp/entry/2018/01/05/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%A8%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A)
-
-
-
-
-[2日目資料](https://qiita.com/polythenepan/private/0c9749adae67b2f04909)
