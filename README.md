@@ -68,7 +68,11 @@ https://github.com/polythenepan/aws-study-group/tree/master/day1
 <BR>
 
 ### Day4. サーバにAPIをリリースしよう
-TBD
+- [Day4 Gitの活用](https://qiita.com/polythenepan/private/9d9bbb83517534c86dd0)
+
+- [Day4 リリースの実行](https://qiita.com/polythenepan/private/84b15c52c80d5f7698eb)
+
+- [Day4 pipのインストール](https://qiita.com/polythenepan/private/9d38433b669fab54552e)
 
 
 
