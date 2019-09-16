@@ -39,14 +39,16 @@ https://github.com/polythenepan/aws-study-group/tree/master/day1
 
 - [Day2 参考2 便利なライブラリの活用 Flask-RESTful](https://qiita.com/polythenepan/private/ae2d3958b4aedf19cc60)
 
+- [Day2 参考3 DBの使用 Cloud9 - MySQLの基本操作](https://qiita.com/polythenepan/private/e2787bbb77b81c870bae)
 <BR>
 
 ##### TBD
-- FlaskでDBを使う(SQLite編)
 
-- FlaskでDBを使う(MySQL編)
+- Day2 参考3 DBの使用 Cloud9 - PythonでMySQLを使う
 
-- FlaskでDBを使う(SQLAkchemyの活用)
+- Day2 参考3 DBの使用 Cloud9 - ORM(SQLAlchemy)の活用
+
+- Day2 参考3 DBの使用 Cloud9・EC2 - RDSとの接続 
 
 <BR>
 
@@ -74,7 +76,11 @@ https://github.com/polythenepan/aws-study-group/tree/master/day1
 
 - [Day4 pipのインストール](https://qiita.com/polythenepan/private/9d38433b669fab54552e)
 
+##### TBD
 
+- Day2 参考1 デプロイ用にリポジトリを整理する
+
+- Day2 参考2 AWSのサービスを活用した自動デプロイ
 
 <BR>
 
